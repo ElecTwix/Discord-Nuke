@@ -7,10 +7,11 @@ reading this help sheet i will just block your discord!
 NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
 You will also need to be a admin of a server to invite this bot. 
 
+# NODE Step 1
 1: Make sure you hhave node.js installed on your computer (IT IS FREE TO DOWNLAOD) 
 If you dont fo to this website: https://nodejs.org
 
-
+# Discord Developer Step 2
 2: go to discord developers and create a new application. Name it what ever you like.
 
 After you have done that go to the application the press "bot" then "add new bot" then press "yes"
@@ -37,23 +38,23 @@ This Bot edited and restored by electwix.
 Add New Feture spy roles.
 
 Commands.
+# Commands
+```bb35n! + nuke```
 
-bb35n! + nuke
-
-Delete All Roles
-Delete All Channels
-Ban All Users
+## Delete All Roles
+## Delete All Channels
+## Ban All Users
 
 
-bb35n! + delete
+```bb35n! + delete```
 
-Dlete All Roles
-Delete All Channels
+## Dlete All Roles
+## Delete All Channels
 
-bbn! + ban
-Ban All Users
+```bbn! + ban```
+## Ban All Users
 
-yar! + role
+```yar! + role```
 
 
 
