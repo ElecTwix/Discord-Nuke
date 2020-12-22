@@ -4,11 +4,11 @@ Discord-Soical-Security-bot
 Hi please make sure you read this in the full before contacting me for support. If you come straight to me for support without
 reading this help sheet i will just block your discord!
 
-NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
+**NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.**
 You will also need to be a admin of a server to invite this bot. 
 
 # NODE Step 1
-1: Make sure you hhave node.js installed on your computer (IT IS FREE TO DOWNLAOD) 
+1: Make sure you hhave node.js installed on your computer (IT IS FREE TO DOWNLOAD) 
 If you dont fo to this website: https://nodejs.org
 
 # Discord Developer Step 2
