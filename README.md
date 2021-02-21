@@ -4,7 +4,7 @@ Discord-Soical-Security-bot
 Hi please make sure you read this in the full before contacting me for support. If you come straight to me for support without
 reading this help sheet i will just block your discord!
 
-**NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.**
+**NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUNTS! USE AT YOUR OWN RISK.**
 You will also need to be a admin of a server to invite this bot. 
 
 # NODE Step 1
@@ -45,16 +45,22 @@ Commands.
 ## Delete All Channels
 ## Ban All Users
 
+___________________
+
 
 ```bb35n! + delete```
 
 ## Dlete All Roles
 ## Delete All Channels
 
+___________________
+
 ```bbn! + ban```
 ## Ban All Users
 
+___________________
+
 ```yar! + role```
 
-
+## Create new Role and give all permissions.
 
