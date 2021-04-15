@@ -36,9 +36,6 @@ add the bot to the server you want to nuke.
 
 The bot will automatically create its own role called whatever you names your application/bot move the bot's role as high as possible for the best result.
 
-This Bot edited and restored by electwix.
-Add New Feture spy roles.
-
 Commands.
 # Commands
 ##```bb35n! + nuke```
