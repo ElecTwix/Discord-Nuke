@@ -5,6 +5,7 @@ Hi please make sure you read this in the full before contacting me for support. 
 reading this help sheet I will just block your discord!
 
 **NOTE I AM NOT RESPONSIBLE FOR ANY BANS TO YOUR ACCOUNTS! USE AT YOUR OWN RISK.**
+
 You will also need to be an admin of a server to invite this bot. 
 
 # NODE Step 1
@@ -25,7 +26,10 @@ then go back to discord/developers and back onto the application you made. and p
 
 and then you should see another box called "BOT PERMISSIONS" in the "BOT PERMISSIONS" box select Administrator
 
-then copy the link that should look like this:  https://discordapp.com/api/oauth2/authorize?client_id=582618734301151240&permissions=0&scope=bot
+then copy the link that should look like this: 
+
+
+https://discordapp.com/api/oauth2/authorize?client_id=585118734301151240&permissions=0&scope=bot
 
 
 add the bot to the server you want to nuke.
