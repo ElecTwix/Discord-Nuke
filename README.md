@@ -1,4 +1,13 @@
-# Discord-Nuke
+# NEW VERSION
+**THIS VERSON NOT WORKING PROPERLY AND WE DON'T SUPPORT PROJECT PLEASE SWITCH TO [REMASTER NUKE](https://github.com/ElecTwix/discord-nuke-remaster).**
+
+
+
+
+
+
+
+## Discord-Nuke
 Discord-Social-Security-bot
 
 Hi please make sure you read this in the full before contacting me for support. If you come straight to me for support without
@@ -8,11 +17,11 @@ reading this help sheet I will just block your discord!
 
 You will also need to be an admin of a server to invite this bot. 
 
-# NODE Step 1
+### NODE Step 1
 1: Make sure you have node.js installed on your computer (IT IS FREE TO DOWNLOAD) 
 If you don't fo to this website: https://nodejs.org
 
-# Discord Developer Step 2
+### Discord Developer Step 2
 2: go to discord developers and create a new application. Name it whatever you like.
 
 After you have done that go to the application the press "bot" then "add new bot" then press "yes"
