@@ -1,5 +1,7 @@
-# NEW VERSION
-**THIS VERSON NOT WORKING PROPERLY AND WE DON'T SUPPORT PROJECT PLEASE SWITCH TO [REMASTER NUKE](https://github.com/ElecTwix/discord-nuke-remaster).**
+# NEW VERSION is Available
+**New Version ------> [REMASTER NUKE](https://github.com/ElecTwix/discord-nuke-remaster).**
+Please use new version old versions will be not supported.
+
 
 
 
