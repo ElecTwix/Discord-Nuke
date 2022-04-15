@@ -1,6 +1,6 @@
 # NEW VERSION is Available
-**New Version ------> [REMASTER NUKE](https://github.com/ElecTwix/discord-nuke-remaster).**
-Please use new version old versions will be not supported.
+**New Version ------> [REMASTER NUKE CPP](https://github.com/ElecTwix/discord-nuke-remaster). or [NUKE v3 GO](https://github.com/ElecTwix/discord-nuke-v3)**
+Please use new versions this repo are not maintain.
 
 
 
